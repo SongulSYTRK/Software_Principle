@@ -41,11 +41,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BadExample\CafeMenu.cs" />
+    <Compile Include="BadExample\TypeOfCoffe.cs" />
+    <Compile Include="BadExample\TypeOfTea.cs" />
+    <Compile Include="GoodExample\Concrete\Coffe.cs" />
+    <Compile Include="GoodExample\Concrete\CoffeMenu.cs" />
+    <Compile Include="GoodExample\Concrete\Tea.cs" />
+    <Compile Include="GoodExample\Interface\IDrinkMenu.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="BadExample\" />
-    <Folder Include="GoodExample\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
