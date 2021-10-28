@@ -12,5 +12,10 @@
 
 # What is Dry(Dont Repeat Yourself) Priciple?
 
-#### According to this principle, a single piece of information should be present in only one place and in an authoritative manner in your system.To put it in simple terms avoid redundant repeated code. If you are reiterating the same code almost everywhere in your system, that piece of code has to be locked up as a method for good.
+## According to this principle, a single piece of information should be present in only one place and in an authoritative manner in your system.To put it in simple terms avoid redundant repeated code. If you are reiterating the same code almost everywhere in your system, that piece of code has to be locked up as a method for good.
 ## <br>[DRY_Example](https://github.com/SongulSYTRK/Software_Principle/tree/master/DRY_Principle)
+
+
+# What is SOC(Separation Of Concern) Principle?
+## Separation of concerns is a software architecture design pattern/principle for separating an application into distinct sections, so each section addresses a separate concern. At its essence, Separation of concerns is about order. The overall goal of separation of concerns is to establish a well-organized system where each part fulfills a meaningful and intuitive role while maximizing its ability to adapt to change.
+## <br> [SOC_Example](https://github.com/SongulSYTRK/Software_Principle/tree/master/SOC)
