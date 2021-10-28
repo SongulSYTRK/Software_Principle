@@ -1,4 +1,4 @@
-## What is SOLİD Principle ?
+#  What is SOLİD Principle ?
 ## SOLID software principles; It is a set of principles that ensure that the developed software is flexible, reusable, sustainable and understandable, and prevents code duplication.
 
 # SOLİD PRİNCİPLE :
