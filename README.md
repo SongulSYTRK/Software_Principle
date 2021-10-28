@@ -12,6 +12,5 @@
 
 # What is Dry(Dont Repeat Yourself) Priciple?
 
-According to this principle, a single piece of information should be present in only one place and in an authoritative manner in your system.
-To put it in simple terms avoid redundant repeated code. If you are reiterating the same code almost everywhere in your system, that piece of code has to be locked up as a method for good.
+#### According to this principle, a single piece of information should be present in only one place and in an authoritative manner in your system.To put it in simple terms avoid redundant repeated code. If you are reiterating the same code almost everywhere in your system, that piece of code has to be locked up as a method for good.
 ## <br>[DRY_Example](https://github.com/SongulSYTRK/Software_Principle/tree/master/DRY_Principle)
