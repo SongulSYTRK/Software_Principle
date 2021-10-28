@@ -16,7 +16,7 @@ namespace _2_OperClosed.BadExample
 
             if (bookGenre==BookGenre.History)
             {
-                 x=  "you choose history ";
+                  x=  "you choose history ";
             }
             else if (bookGenre == BookGenre.Novel)
             {
@@ -26,7 +26,7 @@ namespace _2_OperClosed.BadExample
             {
                 x ="you choose Poem ";
             }
-            return "x";
+            return x;
         }
     }
     

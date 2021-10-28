@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IOC_Priciple
+namespace SOC
 {
     public class Class1
     {
